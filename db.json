@@ -1,0 +1,28 @@
+{
+    "shop_data": [
+      {
+        "product_name": "Product A",
+        "stock_quantity": 100,
+        "today_sales": 20,
+        "total_profit": 200
+      },
+      {
+        "product_name": "Product B",
+        "stock_quantity": 75,
+        "today_sales": 15,
+        "total_profit": 150
+      },
+      {
+        "product_name": "Product C",
+        "stock_quantity": 50,
+        "today_sales": 10,
+        "total_profit": 100
+      },
+      {
+        "product_name": "Product D",
+        "stock_quantity": 120,
+        "today_sales": 25,
+        "total_profit": 250
+      }
+    ]
+  }
